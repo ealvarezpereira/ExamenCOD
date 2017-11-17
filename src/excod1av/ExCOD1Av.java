@@ -25,6 +25,10 @@ public class ExCOD1Av {
         
         
         
+        System.out.println("Commit C (rama exp)");
+        
+        System.out.println("Commit D (rama exp)");
+        
     }
     
 }
